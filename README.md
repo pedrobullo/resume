@@ -67,13 +67,13 @@
 
 ## Experiências profissionais
 
-### Mercado Livre (Senior Frontend Developer) - Setembro de 2022 - Present (2 anos 7 meses)
-### Donus (Senior Software Engineering) - Abril de 2021 - junho de 2022 (1 ano 3 meses)
-### Creditas - (Senior Frontend Developer) - dezembro de 2019 - abril de 2021 (1 ano 5 meses)
-### GOL Linhas Aéreas Inteligentes - Senior Frontend Developer - junho de 2019 - dezembro de 2019 (7 meses)
-### Gympass - Senior Frontend Developer - dezembro de 2017 - junho de 2019 (1 ano 7 meses)
-### Sciensa - Senior Frontend Developer - janeiro de 2017 - novembro de 2017 (11 meses)
-### InCeres - Desenvolvedor de front-end - julho de 2016 - janeiro de 2017 (7 meses)
+### Mercado Livre (Senior Frontend Developer) - Setembro de 2022 > Present (2 anos 7 meses)
+### Donus (Senior Software Engineering) - Abril de 2021 > junho de 2022 (1 ano 3 meses)
+### Creditas (Senior Frontend Developer) - dezembro de 2019 > abril de 2021 (1 ano 5 meses)
+### GOL Linhas Aéreas Inteligentes (Senior Frontend Developer) > junho de 2019 > dezembro de 2019 (7 meses)
+### Gympass (Senior Frontend Developer) - dezembro de 2017 > junho de 2019 (1 ano 7 meses)
+### Sciensa (Senior Frontend Developer) - janeiro de 2017 > novembro de 2017 (11 meses)
+### InCeres (Desenvolvedor de front-end) - julho de 2016 > janeiro de 2017 (7 meses)
 
 Trabalhando no desenvolvimento de ferramentas de mapeamento de solo para usuários na área de agro.
 
