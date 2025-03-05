@@ -1,4 +1,4 @@
-# resume# Pedro Bullo Junior
+# Pedro Bullo Junior
 
 - Software Engineer
 - Piracicaba, SP
