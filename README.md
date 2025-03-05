@@ -73,7 +73,7 @@
 **Senior Frontend Developer**  
 **Setembro de 2022 – Presente** (2 anos 7 meses)
 
-### **Donus**  
+### **Donus Ambev**  
 **Senior Software Engineer**  
 **Abril de 2021 – Junho de 2022** (1 ano 3 meses)
 
