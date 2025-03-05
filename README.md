@@ -7,14 +7,16 @@
 - [Linkedin](www.linkedin.com/in/pedro-bullo-junior): /pedro-bullo-junior
 - [Github](https://github.com/pedrobullo): /pedrobullo
 
-## Formação
+## Formação Acadêmica
 
-**UNISAL - Centro Universitário Salesiano de São Paulo**: Bacharelado em Sistemas de Informação Tecnologia da Informação
+**UNISAL - Centro Universitário Salesiano de São Paulo**  
+**Bacharelado em Sistemas de Informação**  
+**Tecnologia da Informação**
 
 ## Linguas
 
-- Inglês (Avançado)
-- Espanhol (Básico)
+- **Inglês**: Avançado
+- **Espanhol**: Básico
 
 ## Conhecimentos Técnicos
 
@@ -22,7 +24,7 @@
 
 #### Javascript / Typescript
 - ReactJS, React Native
-- Global State (Redux / Zustand / Context API)
+- Gerenciamento de Estado (Redux, Zustand, Context API)
 - Next, Vite, Meteor
 - NodeJS
 - SSR (Server-Side Rendering), SSG (Static Site Generation), SPA (Single Page Aplication)
@@ -67,14 +69,31 @@
 
 ## Experiências profissionais
 
-### Mercado Livre (Senior Frontend Developer) - Setembro de 2022 > Present (2 anos 7 meses)
-### Donus (Senior Software Engineering) - Abril de 2021 > junho de 2022 (1 ano 3 meses)
-### Creditas (Senior Frontend Developer) - dezembro de 2019 > abril de 2021 (1 ano 5 meses)
-### GOL Linhas Aéreas Inteligentes (Senior Frontend Developer) > junho de 2019 > dezembro de 2019 (7 meses)
-### Gympass (Senior Frontend Developer) - dezembro de 2017 > junho de 2019 (1 ano 7 meses)
-### Sciensa (Senior Frontend Developer) - janeiro de 2017 > novembro de 2017 (11 meses)
-### InCeres (Desenvolvedor de front-end) - julho de 2016 > janeiro de 2017 (7 meses)
+### **Mercado Livre**  
+**Senior Frontend Developer**  
+**Setembro de 2022 – Presente** (2 anos 7 meses)
 
-Trabalhando no desenvolvimento de ferramentas de mapeamento de solo para usuários na área de agro.
+### **Donus**  
+**Senior Software Engineer**  
+**Abril de 2021 – Junho de 2022** (1 ano 3 meses)
 
-- ReactJS, MeteorJS, Redux, Sass.
+### **Creditas**  
+**Senior Frontend Developer**  
+**Dezembro de 2019 – Abril de 2021** (1 ano 5 meses)
+
+### **GOL Linhas Aéreas Inteligentes**  
+**Senior Frontend Developer**  
+**Junho de 2019 – Dezembro de 2019** (7 meses)
+
+### **Gympass**  
+**Senior Frontend Developer**  
+**Dezembro de 2017 – Junho de 2019** (1 ano 7 meses)
+
+### **Sciensa**  
+**Senior Frontend Developer**  
+**Janeiro de 2017 – Novembro de 2017** (11 meses)
+
+### **InCeres**  
+**Desenvolvedor de Front-End**  
+**Julho de 2016 – Janeiro de 2017** (7 meses)  
+- Desenvolvimento de ferramentas de mapeamento de solo para usuários na área de agro, utilizando **ReactJS**, **MeteorJS**, **Redux**, **Sass**.
