@@ -72,18 +72,35 @@
 ### **Mercado Livre**  
 **Senior Frontend Developer**  
 **Setembro de 2022 – Presente** (2 anos 7 meses)
+- Desenvolvimento de ferramentas para gestão de milhões de eventos diarios para o Mercado Pago
+- Manter e padronizar ferramentas com **Design System**
+- Observabilidade: criando dashboards para gestão de recursos no Datadog, New Relic
+- Automatização e BOTs para Slack
+- Documentação e Storybook
+- ReactJS, NodeJS, REST, Code Review, SOLID
 
 ### **Donus Ambev**  
 **Senior Software Engineer**  
 **Abril de 2021 – Junho de 2022** (1 ano 3 meses)
+- Desenvolvimento do aplicativo de wallet para contas Ambev, onboarding, cadastro, gerenciamento de cartão de credito e extrato.
+- Mantenedor do **Design System**
+- Documentação e Storybook
+- React Native, GraphQL, GraphQL Federation, CodePush, App distribution
 
 ### **Creditas**  
 **Senior Frontend Developer**  
 **Dezembro de 2019 – Abril de 2021** (1 ano 5 meses)
+- Desenvolvimento do super app no time de wallet para gerenciamento de beneficios e cartão Creditidas
+- Desenvolvimento de onboarding da conta digital para o app
+- Mantenedor do **Design System** (Web + Mobile)
+- React Native, Redux, Redux Saga, CircleCI, Code Review
 
 ### **GOL Linhas Aéreas Inteligentes**  
 **Senior Frontend Developer**  
 **Junho de 2019 – Dezembro de 2019** (7 meses)
+- Desenvolvimento do principal app de passagens e checkin
+- 
+- React Native, Redux, Redux Saga
 
 ### **Gympass**  
 **Senior Frontend Developer**  
