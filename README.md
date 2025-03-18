@@ -106,7 +106,7 @@
 **Senior Frontend Developer**  
 **Dezembro de 2017 – Junho de 2019** (1 ano 7 meses)
 - Desenvolvimento da nova arquitetura SSR do produto de checkin web
-- Desenvolvimento do aplicativo nativo para primeira feature de checkin
+- Desenvolvimento da nova arquitetura do aplicativo nativo para o produto de checkin
 - React, React Native, Redux, NodeJS, REST, GraphQL
 
 ### **Sciensa**  
