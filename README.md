@@ -74,10 +74,10 @@
 **Setembro de 2022 – Presente** (2 anos 7 meses)
 - Desenvolvimento de ferramentas para gestão de milhões de eventos diarios para o Mercado Pago
 - Manter e padronizar ferramentas com **Design System**
-- Observabilidade: criando dashboards para gestão de recursos no Datadog, New Relic
+- Criando dashboards para gestão de recursos e comportamento usando Datadog, Kibana e New Relic
 - Automatização e BOTs para Slack
 - Documentação e Storybook
-- ReactJS, NodeJS, REST, Code Review, SOLID
+- ReactJS, NodeJS, REST, Figma, Code Review, SOLID
 
 ### **Donus Ambev**  
 **Senior Software Engineer**  
@@ -99,16 +99,21 @@
 **Senior Frontend Developer**  
 **Junho de 2019 – Dezembro de 2019** (7 meses)
 - Desenvolvimento do principal app de passagens e checkin
-- 
-- React Native, Redux, Redux Saga
+- Manutenção de backlog
+- React Native, Redux, Redux Saga, Code Review, BugSnag
 
 ### **Gympass**  
 **Senior Frontend Developer**  
 **Dezembro de 2017 – Junho de 2019** (1 ano 7 meses)
+- Desenvolvimento da nova arquitetura SSR do produto de checkin web
+- Desenvolvimento do aplicativo nativo para primeira feature de checkin
+- React, React Native, Redux, NodeJS, REST, GraphQL
 
 ### **Sciensa**  
 **Senior Frontend Developer**  
 **Janeiro de 2017 – Novembro de 2017** (11 meses)
+- Desenvolvimento de ferramentas para leads usando machine learning
+- ReactJS, Redux, NodeJS, MeteorJS
 
 ### **InCeres**  
 **Desenvolvedor de Front-End**  
